@@ -57,14 +57,10 @@ body {
 }
 
 .teschi-header h1 {
-    font-size: 224px;
-    font-weight: bold;
-    margin-top: 10px;
-}
-.teschi-header h2 {
     font-size: 24px;
     font-weight: bold;
     margin-top: 10px;
+}
 
 .siia-title {
     font-size: 15px;
